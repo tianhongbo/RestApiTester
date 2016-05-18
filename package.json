@@ -1,0 +1,17 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "description": "continous integration project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ci"
+  ],
+  "author": "scott tian",
+  "license": "ISC",
+  "devDependencies": {
+    "frisby": "^0.8.5"
+  }
+}
