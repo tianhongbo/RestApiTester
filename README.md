@@ -23,6 +23,7 @@ api1002_spce.js
 
 # How to run testing?
 For instance, all the test cases are stored under "account/api/" folder.
+
 `jasmine-node account/api/`
 
 # Resources
